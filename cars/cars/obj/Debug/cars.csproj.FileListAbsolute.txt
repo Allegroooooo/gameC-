@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\cars\cars\bin\Debug\cars.exe.config
+C:\Users\admin\source\repos\cars\cars\bin\Debug\cars.exe
+C:\Users\admin\source\repos\cars\cars\bin\Debug\cars.pdb
+C:\Users\admin\source\repos\cars\cars\obj\Debug\cars.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\cars\cars\obj\Debug\cars.Form1.resources
+C:\Users\admin\source\repos\cars\cars\obj\Debug\cars.Properties.Resources.resources
+C:\Users\admin\source\repos\cars\cars\obj\Debug\cars.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\cars\cars\obj\Debug\cars.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\cars\cars\obj\Debug\cars.exe
+C:\Users\admin\source\repos\cars\cars\obj\Debug\cars.pdb
